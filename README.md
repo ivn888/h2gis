@@ -1,5 +1,7 @@
 # H2GIS [![Build Status](https://travis-ci.org/irstv/H2GIS.png?branch=master)](https://travis-ci.org/irstv/H2GIS)
 
+H2GIS 1.1.X branch is linked with the stable H2 release (1.3.176). This branch is updated only for fixing issues.
+
 H2GIS is a spatial extension of the [H2](http://www.h2database.com/) database
 engine in the spirit of [PostGIS](http://postgis.net/). It adds support for
 managing spatial features and operations on the new `Geometry` type of H2, the [Open
